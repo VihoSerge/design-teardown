@@ -1,5 +1,5 @@
-# Design Teardonw
-#### Project: HTML & CSS3:Design Teardonw
+# Design Teardown
+#### Project: HTML & CSS3:Design Teardown
 
 This is the five project of the Main HTML/CSS curriculum at [Microverse](https://www.microverse.org/)
 * The goal is is to create a grayscale heat map of the [Smashing Magazine](https://www.smashingmagazine.com/) website that indicates which elements have the greatest weight in the visual hierarchy
